@@ -1,8 +1,10 @@
 # Imperfect_recall
 
 Data set and code  for the article: Imperfect Recall: The Politics of Subnational Office Removals
-Data set: recalldataset.do
-Script: finalscript.do
+
+**Data set**: recalldataset.dta
+
+**Script**: finalscript.do
 
 Cite: 
 Holland, A. C., & Incio, J. (2018). Imperfect Recall: The Politics of Subnational Office Removals. Comparative Political Studies. https://doi.org/10.1177/0010414018797939
